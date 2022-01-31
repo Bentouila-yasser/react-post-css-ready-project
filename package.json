@@ -42,5 +42,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "postcss-import": "^14.0.2",
+    "postcss-preset-env": "^7.3.0"
   }
 }
